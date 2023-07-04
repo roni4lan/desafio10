@@ -1,5 +1,7 @@
 ESTRUCTURA DE BLOG
+
 Desafío 10. Grupo 19
+
 
 Leandro Ezequiel Goncebat Navarro
 
